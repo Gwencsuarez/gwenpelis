@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url("common.css");
+
+@import url("header.css");
+
+@import url("colors.css");
+
+@import url("navegador.css");
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+}
+
+ aside{
+	flex: 25%;
+	height: auto;
+	background-color: lightgray;
+	 padding: 10px;
+}
+
+.main{
+	flex: 75%;
+	height: auto;
+	background-color: whitesmoke;
+	padding: 20px;
+	text-align:center;
+	
+	
+}
+
+

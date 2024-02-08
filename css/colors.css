@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+root{
+	--colorprimary: #093A3E;
+	--colorprimary-dark: #001011;
+	--colorsecondary: #64e9ee;
+	--colorsencondary-dark: #3aafb9;
+	--colorgray-light: #f1f1f1;
+	--colorgray: #ccc;
+	--colorgray-dark: #333;
+	
+}
